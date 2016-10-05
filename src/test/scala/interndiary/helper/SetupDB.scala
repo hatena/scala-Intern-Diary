@@ -1,6 +1,6 @@
 package interndiary.helper
 
-import org.scalatest.{FunSpec, BeforeAndAfterAll, BeforeAndAfter}
+import org.scalatest.{FunSpec, BeforeAndAfterAll}
 import interndiary.repository.Context
 
 trait SetupDB extends BeforeAndAfterAll { self: FunSpec =>

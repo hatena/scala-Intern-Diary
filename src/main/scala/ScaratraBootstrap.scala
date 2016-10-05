@@ -1,4 +1,3 @@
-import interndiary._
 import org.scalatra._
 import javax.servlet.ServletContext
 //import interndiary.service.Context
